@@ -1,0 +1,2 @@
+# Data-Visualization-with-Python
+Hands-on practice notebook exploring core data visualization techniques in Python using Matplotlib and Seaborn — histograms, boxplots, bar graphs, line plots, scatterplots, pair plots, and heatmaps — applied to an automobile dataset to analyze distributions, relationships, and trends across numerical and categorical variables.
