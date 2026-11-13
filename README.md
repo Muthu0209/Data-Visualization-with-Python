@@ -4,7 +4,7 @@ Hands-on practice notebook exploring core data visualization techniques in Pytho
 
 ## Dataset
 
-`Automobile_1.csv` — 201 vehicles, 26 attributes, including:
+`Automobile (1).csv` — 201 vehicles, 26 attributes, including:
 
 | Type | Columns (examples) |
 |---|---|
@@ -71,7 +71,7 @@ and skip the `drive.mount(...)` cells.
 
 ```
 ├── PythonVisualization.ipynb   # Main notebook
-├── Automobile_1.csv            # Dataset
+├── Automobile (1).csv            # Dataset
 └── README.md
 ```
 
