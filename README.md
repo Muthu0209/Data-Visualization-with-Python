@@ -62,7 +62,7 @@ jupyter notebook PythonVisualization.ipynb
 **Note:** the notebook was written in Google Colab and loads the CSV from Google Drive. To run it locally, change the load line to:
 
 ```python
-df = pd.read_csv('Automobile_1.csv')
+df = pd.read_csv('Automobile (1).csv')
 ```
 
 and skip the `drive.mount(...)` cells.
